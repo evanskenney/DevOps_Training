@@ -1,1 +1,2 @@
 Trying the git pull
+git pull = git fetch + git merge
